@@ -1,0 +1,38 @@
+[
+  {
+    "key": "ricS",
+    "name": "hear.com HORIZON AX RIC-S",
+    "description": "A small receiver-in-canal hearing aid.",
+    "image": "https://www.hear.com/in/wp-content/uploads/sites/17/2022/12/rose-gold-hear.png"
+  },
+  {
+    "key": "ricR",
+    "name": "hear.com HORIZON AX RIC-R",
+    "description": "A large behind-the-ear hearing aid.",
+    "image": "https://www.hear.com/in/wp-content/uploads/sites/17/2022/12/RIC-R-AX-Black.png"
+  },
+  {
+    "key": "ric",
+    "name": "hear.com HORIZON X RIC",
+    "description": "An in-the-ear hearing aid.",
+    "image": "https://www.hear.com/in/wp-content/uploads/sites/17/2022/12/RIC-X-Black.png"
+  },
+  {
+    "key": "itc-R",
+    "name": "hear.com HORIZON AX ITC-R",
+    "description": "An in-the-ear hearing aid.",
+    "image": "https://www.hear.com/in/wp-content/uploads/sites/17/2022/12/black-1.png"
+  },
+  {
+    "key": "cic",
+    "name": "hear.com HORIZON X CIC",
+    "description": "An in-the-ear hearing aid.",
+    "image": "https://www.hear.com/in/wp-content/uploads/sites/17/2021/02/HORIZON_WEBSITE_PRODUCT_CIC_01_475X550.png"
+  },
+  {
+    "key": "xricS",
+    "name": "hear.com HORIZON X RIC-S",
+    "description": "An in-the-ear hearing aid.",
+    "image": "https://www.hear.com/in/wp-content/uploads/sites/17/2022/12/White.png"
+  }
+]
